@@ -3,8 +3,8 @@
 - 💻 I’m a Web Frontend Developer 
 - 🎓 I’m a Computer Engineering Undergraduate at the University of Waterloo、
 - 😂 I’m currently learning Vue, TypeScript, etc... (a lot to learn)
-- 💬 Oh! I'm looking for Co-op job for Winter 2020. 
-- 👨‍💻  Please contact me if you offer any Front-end or Full-Stack position
+- 👨‍💻 Oh! I'm working in IBM as Front-end Developer Coop 
+- 💬 If you have any tech topic that want to discuss, feel free to contact me!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hubert-Zhu)](https://github.com/anuraghazra/github-readme-stats)
 
