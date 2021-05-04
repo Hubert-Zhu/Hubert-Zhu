@@ -1,6 +1,6 @@
 ### Hi I'm Hubert 👋 
 
-- 💻 I’m a Web Frontend Developer 
+- 💻 I’m a Full-Stack Developer 
 - 🎓 I’m a Computer Engineering Undergraduate at the University of Waterloo
 - 😂 I’m currently learning Angular, three.js, Database etc
 - 👨‍💻 I'm looking for Co-op opportunity for fall 2021
