@@ -1,8 +1,7 @@
 ### Hi I'm Hubert 👋 
 
-- 💻 I’m Web Full-Stack Developer 
+- 💻 I’m Full-Stack Developer 
 - 🎓 I’m a Software Engineering Undergraduate at the University of Waterloo
-- 👨‍💻 I'm looking for Co-op opportunity for summer 2022
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hubert-Zhu)](https://github.com/anuraghazra/github-readme-stats)
+- 👨‍💻 I'm learning and studying DBMS
+- 🎯 I aim to become a senior engineer in an open-source DBMS within the next five years
 
